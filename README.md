@@ -15,4 +15,12 @@ Questions:
   4) the numerical values are the maximum values of the hue, saturation and lightness respectively, and the fourth is the value of the alpha.
 
 5) it 'plants' the grass, making sure it is touching the layer underneath.
+6) 'objects' in javascript are like literal real life 'objects' with valuables - so we can keep better track of them on the screen.
+7) map(mouseX, 0, 400, 0, 200);
+8)function setup() {
+  createCanvas(400, 400);
+	var num = int(random(2000, 2018));
+console.log(num);
+}
+
 
